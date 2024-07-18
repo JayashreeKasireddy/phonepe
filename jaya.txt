@@ -1,3 +1,0 @@
-this is a git file
-this is a sample git file
-this is a partially completed file and yet to commit
